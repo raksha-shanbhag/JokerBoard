@@ -1,4 +1,4 @@
-# Riddle-Board
+# JokerBoard
 ![ScreenShot](/Screenshots/Riddle.PNG)
 
 ### To edit riddle
